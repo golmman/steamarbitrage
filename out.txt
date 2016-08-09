@@ -1,0 +1,976 @@
+Prices loaded from file
+
+miau testtttt
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log dated: Wed Mar 18 14:13:13 CET 2015--------
+Prices loaded from file
+
+miau testtttt
+
+bllblb
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log entry date: Wed Mar 18 14:15:11 CET 2015--------
+Prices loaded from file
+
+miau testtttt
+
+bllblb
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log entry date: Wed Mar 18 14:18:47 CET 2015--------
+Prices loaded from file
+
+miau testtttt
+
+bllblb
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log entry date: Wed Mar 18 14:20:23 CET 2015--------
+Prices loaded from file
+
+miau testtttt
+
+bllblb
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log entry date: Wed Mar 18 14:23:55 CET 2015--------
+Prices loaded from file
+
+miau testtttt
+
+bllblb
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log entry date: Wed Mar 18 14:33:44 CET 2015--------
+Prices loaded from file
+
+miau testtttt
+
+bllblb
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log entry date: Wed Mar 18 15:55:38 CET 2015--------
+Prices loaded from file
+
+miau testtttt
+
+bllblb
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Update Prices
+
+active threads: 2, remaining queries: 0
+
+Taskmanager: starting task Update Relevances
+
+414 relevant items updated
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Save
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log entry date: Wed Mar 18 16:55:43 CET 2015--------
+Prices loaded from file
+
+miau testtttt
+
+bllblb
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Update Prices
+
+active threads: 2, remaining queries: 0
+
+Taskmanager: starting task Update Relevances
+
+414 relevant items updated
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Save
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+Taskmanager: starting task Update Prices
+
+active threads: 2, remaining queries: 0
+
+Taskmanager: starting task Update Relevances
+
+414 relevant items updated
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Save
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log entry date: Fri Mar 20 12:27:26 CET 2015--------
+Prices loaded from file
+
+miau testtttt
+
+bllblb
+
+211
+
+Steam queue resumed
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Update Prices
+
+active threads: 3, remaining queries: 2356
+
+Steam queue paused
+
+Steam queue resumed
+
+Steam queue paused
+
+Steam queue resumed
+
+Steam queue paused
+
+Steam queue resumed
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Save
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log entry date: Fri Mar 20 12:29:36 CET 2015--------
+Prices loaded from file
+
+miau testtttt
+
+bllblb
+
+211
+
+Steam queue resumed
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Update Prices
+
+active threads: 2, remaining queries: 2286
+
+Steam queue paused
+
+Steam queue resumed
+
+Steam queue paused
+
+Steam queue resumed
+
+All Tasks terminated
+
+Steam queue resumed
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Save
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log entry date: Fri Mar 20 12:30:05 CET 2015--------
+Taskmanager: starting task Update Prices
+
+active threads: 2, remaining queries: 2317
+
+All Tasks terminated
+
+Steam queue resumed
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Save
+
+All Tasks terminated
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log entry date: Thu Apr 02 17:52:17 CEST 2015--------
+Prices loaded from file
+
+Steam queue resumed
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Update Prices
+
+Updating Prices...
+
+active threads: 3, remaining queries: 0
+
+Taskmanager: starting task Update Relevances
+
+613 items evaluated, 3355 score sum
+
+Taskmanager: starting task Search
+
+active threads: 1, remaining queries: 0
+
+index: 68, cur: 0.37, est: 1.89, Profit!, StatTrak™ FAMAS | Sergeant (Battle-Scarred)
+
+index: 2252, cur: 0.61, est: 1.07, Profit!, M4A1-S | Basilisk (Field-Tested)
+
+index: 2302, cur: 0.61, est: 1.07, Profit!, M4A1-S | Basilisk (Field-Tested)
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Save
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log entry date: Sat Apr 04 03:04:37 CEST 2015--------
+Prices loaded from file
+
+Steam queue resumed
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Update Prices
+
+active threads: 2, remaining queries: 2278
+
+Steam queue paused
+
+Steam queue resumed
+
+All Tasks terminated
+
+Steam queue resumed
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Save
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log entry date: Mon Apr 06 16:21:37 CEST 2015--------
+Prices loaded from file
+
+Steam queue resumed
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Update Prices
+
+Steam queue paused
+
+Steam queue resumed
+
+Steam queue paused
+
+Steam queue resumed
+
+Taskmanager: starting task Evaluate Prices
+
+516 items evaluated, 2433 score sum
+
+Taskmanager: starting task Log in
+
+Taskmanager: starting task Search
+
+Taskmanager: starting task Log out
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Log in
+
+Taskmanager: starting task Search
+
+Taskmanager: starting task Log out
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Save
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log entry date: Mon Apr 06 17:53:59 CEST 2015--------
+Taskmanager: starting task Update Prices
+
+Taskmanager: starting task Evaluate Prices
+
+531 items evaluated, 2501 score sum
+
+Taskmanager: starting task Log in
+
+Taskmanager: starting task Search
+
+Taskmanager: starting task Log out
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Log in
+
+Taskmanager: starting task Search
+
+Taskmanager: starting task Log out
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Save
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log entry date: Mon Apr 06 19:25:37 CEST 2015--------
+Taskmanager: starting task Update Prices
+
+Taskmanager: starting task Evaluate Prices
+
+531 items evaluated, 2477 score sum
+
+Taskmanager: starting task Log in
+
+Taskmanager: starting task Search
+
+Taskmanager: starting task Log out
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Log in
+
+Taskmanager: starting task Search
+
+Taskmanager: starting task Log out
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Save
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log entry date: Mon Apr 06 20:57:25 CEST 2015--------
+Taskmanager: starting task Update Prices
+
+Taskmanager: starting task Evaluate Prices
+
+531 items evaluated, 2479 score sum
+
+Taskmanager: starting task Log in
+
+Taskmanager: starting task Search
+
+index: 524, cur: 0.34, est: 0.56, Profit!, AWP | Safari Mesh (Battle-Scarred), listingid: 436062245775123268
+
+Taskmanager: starting task Log out
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Log in
+
+Taskmanager: starting task Search
+
+index: 1018, cur: 0.41, est: 0.59, Profit!, Desert Eagle | Naga (Field-Tested), listingid: 434936345869069482
+
+index: 1088, cur: 0.41, est: 0.59, Profit!, Desert Eagle | Naga (Field-Tested), listingid: 434936345869069482
+
+index: 1890, cur: 0.22999999, est: 0.48999998, Profit!, P250 | Supernova (Field-Tested), listingid: 436062245775485113
+
+Buying listing: P250 | Supernova (Field-Tested)
+
+
+
+Taskmanager: starting task Log out
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Save
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log entry date: Mon Apr 06 22:29:51 CEST 2015--------
+Taskmanager: starting task Update Prices
+
+Taskmanager: starting task Evaluate Prices
+
+528 items evaluated, 2503 score sum
+
+Taskmanager: starting task Log in
+
+Taskmanager: starting task Search
+
+index: 861, cur: 0.35999998, est: 0.52, Profit!, AWP | Safari Mesh (Battle-Scarred), listingid: 434936345869324807
+
+Taskmanager: starting task Log out
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Log in
+
+Taskmanager: starting task Search
+
+Taskmanager: starting task Log out
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Save
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log entry date: Mon Apr 06 23:58:54 CEST 2015--------
+Taskmanager: starting task Update Prices
+
+Taskmanager: starting task Evaluate Prices
+
+517 items evaluated, 2394 score sum
+
+Taskmanager: starting task Log in
+
+Taskmanager: starting task Search
+
+index: 1210, cur: 0.35999998, est: 3.81, Profit!, Desert Eagle | Conspiracy (Factory New), listingid: 436062245776169573
+
+Buying listing: Desert Eagle | Conspiracy (Factory New)
+
+
+
+Taskmanager: starting task Log out
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Log in
+
+Taskmanager: starting task Search
+
+index: 875, cur: 0.98999995, est: 2.0, Profit!, StatTrak™ SG 553 | Pulse (Field-Tested), listingid: 434936345869991207
+
+Buying listing: StatTrak™ SG 553 | Pulse (Field-Tested)
+
+Not buying, already 2 items bought!
+
+{"wallet_info":{"wallet_currency":3,"wallet_country":"DE","wallet_fee":1,"wallet_fee_minimum":1,"wallet_fee_percent":"0.05","wallet_publisher_fee_percent_default":"0.10","wallet_fee_base":0,"wallet_balance":1618,"wallet_max_balance":45000,"wallet_trade_max_balance":36000,"success":1,"rwgrsn":-2}}
+
+
+
+index: 953, cur: 0.98999995, est: 2.0, Profit!, StatTrak™ SG 553 | Pulse (Field-Tested), listingid: 434936345869991207
+
+Buying listing: StatTrak™ SG 553 | Pulse (Field-Tested)
+
+Not buying, already 2 items bought!
+
+
+
+index: 1485, cur: 0.39, est: 0.57, Profit!, Dual Berettas | Urban Shock (Minimal Wear), listingid: 427055046527433261
+
+Taskmanager: starting task Log out
+
+Taskmanager: starting task Idle
+
+Taskmanager: starting task Save
+
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+
+
+-------- Log entry date: Tue Apr 14 02:17:56 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:30:04 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+0 items evaluated, 0 score sum
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:32:12 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+947 items evaluated, 12191 score sum
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:33:10 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+947 items evaluated, 12191 score sum
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:34:13 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:35:03 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+SteamAnalyst 4221 records loaded
+947 items evaluated, 12191 score sum
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:35:49 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+SteamAnalyst 4221 records loaded
+464 items evaluated, 1854 score sum
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:36:30 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+SteamAnalyst 4221 records loaded
+478 items evaluated, 1874 score sum
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:36:51 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+SteamAnalyst 4221 records loaded
+478 items evaluated, 1874 score sum
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:37:17 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+SteamAnalyst 4221 records loaded
+380 items evaluated, 1209 score sum
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:38:52 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+SteamAnalyst 4221 records loaded
+380 items evaluated, 1209 score sum
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:39:44 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:42:31 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:43:20 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:44:26 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:45:57 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:47:49 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:49:59 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:50:41 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:51:08 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:51:38 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:52:06 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 02:59:25 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Tue Apr 14 03:00:44 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Wed Apr 15 02:48:00 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Wed Apr 15 02:48:33 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Wed Apr 15 18:19:57 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Wed Apr 15 18:20:49 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Wed Apr 15 18:21:03 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Wed Apr 15 18:22:00 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Wed Apr 15 20:59:21 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Wed Apr 15 21:02:09 CEST 2015--------
+Prices loaded from file
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Wed Apr 15 21:03:15 CEST 2015--------
+Prices loaded from file
+SteamAnalyst 4221 records loaded
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Thu Apr 16 01:21:56 CEST 2015--------
+Prices loaded from file
+SteamAnalyst 4221 records loaded
+Current profile: JOHANNES-PC
+Logging in...
+Logged in as JOHANNES-PC
+Logging out...
+Logged out
+Steam queue resumed
+Taskmanager: starting task Idle
+Taskmanager: starting task Update Prices
+SteamAnalyst 4225 records loaded
+Steam queue paused
+Steam queue resumed
+Taskmanager: starting task Evaluate Prices
+662 items evaluated, 2883 score sum
+Taskmanager: starting task Log in
+Taskmanager: starting task Search
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+logged out
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Thu Apr 16 01:26:04 CEST 2015--------
+Prices loaded from file
+SteamAnalyst 4224 records loaded
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Mon May 04 18:40:25 CEST 2015--------
+Prices loaded from file
+SteamAnalyst 4404 records loaded
+Current profile: JOHANNES-PC
+Logging in...
+Logged in as JOHANNES-PC
+Logging out...
+Logged out
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Mon May 04 18:43:45 CEST 2015--------
+Prices loaded from file
+SteamAnalyst 4404 records loaded
+Current profile: JOHANNES-PC
+Logging in...
+Logged in as JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+logged out
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Mon May 04 18:59:11 CEST 2015--------
+Prices loaded from file
+SteamAnalyst 4404 records loaded
+Current profile: JOHANNES-PC
+Logging in...
+Logged in as JOHANNES-PC
+Logging out...
+Logged out
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Mon May 04 19:30:58 CEST 2015--------
+Prices loaded from file
+SteamAnalyst 4404 records loaded
+Current profile: JOHANNES-PC
+Logging in...
+Logged in as JOHANNES-PC
+Logging out...
+Logged out
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Mon May 04 19:42:51 CEST 2015--------
+Prices loaded from file
+SteamAnalyst 4404 records loaded
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+
+-------- Log entry date: Mon May 04 19:49:58 CEST 2015--------
+Prices loaded from file
+SteamAnalyst 4404 records loaded
+Current profile: JOHANNES-PC
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata
+All Tasks terminated
+Prices saved to file C:\Program Files (x86)\eclipse\workspace\steamarbitrage\pricedata

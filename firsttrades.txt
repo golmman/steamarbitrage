@@ -1,0 +1,35 @@
+Mon Apr 06 20:34:42 index: 608, cur: 	0.98	, est: 		2.02	, Profit!, StatTrak™ SG 553 | Pulse (Field-Tested), listingid: 427055046533610811
+Tue Apr 07 23:34:42 index: 608, cur: 	0.31	, est: 		0.51	, Profit!, FAMAS | Teardown (Minimal Wear), listingid: 427055046533610811
+Tue Apr 07 23:34:42 index: 105, cur: 	0.40	, est: 		0.69	, Profit!, Glock-18 | Candy Apple (Minimal Wear), listingid: 437188145689858354
+Wed Apr 08 03:07:07 index: 119, cur: 	0.57	, est: 		0.90	, Profit!, AWP | Safari Mesh (Minimal Wear), listingid: 425929146626879860
+Wed Apr 08 21:29:37 index: 795, cur: 	0.38	, est: 		1.02	, Profit!, StatTrak™ P90 | Module (Minimal Wear), listingid: 437188145695763264
+Wed Apr 08 21:29:37 index: 767, cur: 	0.57	, est: 		0.88	, Profit!, MAC-10 | Tatter (Factory New), listingid: 427055046539678851
+Wed Apr 08 22:37:01 index: 1062, cur: 	0.34	, est: 		0.51	, Profit!, XM1014 | Heaven Guard (Field-Tested), listingid: 427055046539856646
+Thu Apr 09 01:55:36 index: 574, cur: 	0.31	, est: 		1.80	, Profit!, StatTrak™ Glock-18 | Catacombs (Factory New), listingid: 427055046540897606
+Thu Apr 09 16:51:41 index: 363, cur: 	0.35	, est: 		0.50	, Profit!, FAMAS | Teardown (Minimal Wear), listingid: 434936345886989322
+Thu Apr 09 20:07:38 index: 709, cur: 	0.63	, est: 		1.10	, Profit!, M4A1-S | Basilisk (Field-Tested), listingid: 425929146637363020
+Thu Apr 09 20:07:38 index: 1036, cur: 	0.32	, est: 		0.57	, Profit!, StatTrak™ Tec-9 | Isaac (Battle-Scarred), listingid: 437188145701619764
+Thu Apr 09 20:07:38 index: 1094, cur: 	2.30	, est: 		3.35	, Profit!, StatTrak™ Dual Berettas | Urban Shock (Factory New), listingid: 425929146637499625
+Thu Apr 09 20:07:38 index: 1074, cur: 	0.38	, est: 		0.58	, Profit!, P250 | Supernova (Minimal Wear), listingid: 427055046545671126
+Thu Apr 09 21:13:26 index: 350, cur: 	0.30	, est: 		0.48	, Profit!, StatTrak™ UMP-45 | Delusion (Field-Tested), listingid: 427055046545761121
+Thu Apr 09 23:22:32 index: 460, cur: 	0.32	, est: 		0.53	, Profit!, Glock-18 | Grinder (Minimal Wear), listingid: 427055046546653396
+Fri Apr 10 19:00:17 index: 855, cur: 	0.28	, est: 		0.54	, Profit!, PP-Bizon | Osiris (Minimal Wear), listingid: 425929146642880360
+Fri Apr 10 19:00:17 index: 474, cur: 	0.34	, est: 		0.61	, Profit!, PP-Bizon | Antique (Field-Tested), listingid: 425929146643079990
+Fri Apr 10 20:16:09 index: 108, cur: 	0.39	, est: 		0.61	, Profit!, StatTrak™ UMP-45 | Delusion (Field-Tested), listingid: 434936345893909547
+Fri Apr 10 20:16:09 index: 307, cur: 	0.23	, est: 		0.50	, Profit!, CZ75-Auto | Tigris (Well-Worn), listingid: 434936345894017952
+Fri Apr 10 20:16:09 index: 240, cur: 	0.30	, est: 		0.50	, Profit!, Tec-9 | Red Quartz (Field-Tested), listingid: 436063118696351568
+Fri Apr 10 20:16:09 index: 321, cur: 	0.31	, est: 		0.46	, Profit!, StatTrak™ Negev | Terrain (Factory New), listingid: 425929146643528705
+Fri Apr 10 21:28:20 index: 330, cur: 	0.50	, est: 		0.78	, Profit!, Desert Eagle | Meteorite (Minimal Wear), listingid: 436063118696662818
+Fri Apr 10 21:28:20 index: 838, cur: 	0.40	, est: 		0.60	, Profit!, Desert Eagle | Naga (Well-Worn), listingid: 437188145708304699
+Fri Apr 10 21:28:20 index: 315, cur: 	0.42	, est: 		0.61	, Profit!, Glock-18 | Grinder (Factory New), listingid: 427055046552283566
+Fri Apr 10 22:39:23 index: 330, cur: 	0.38	, est: 		0.56	, Profit!, Dual Berettas | Urban Shock (Field-Tested), listingid: 437188145708557184
+Fri Apr 10 22:39:23 index: 686, cur: 	1.40	, est: 		2.04	, Profit!, StatTrak™ MAC-10 | Heat (Field-Tested), listingid: 425929146644320705
+Fri Apr 10 22:39:23 index: 838, cur: 	0.34	, est: 		0.55	, Profit!, MAC-10 | Heat (Battle-Scarred), listingid: 434936345895061362
+Sat Apr 11 01:03:30 index: 414, cur: 	0.12	, est: 		0.52	, Profit!, Dual Berettas | Urban Shock (Field-Tested), listingid: 427055046553642296
+Sat Apr 11 07:37:57 index: 290, cur: 	0.29	, est: 		0.85	, Profit!, AWP | Safari Mesh (Minimal Wear), listingid: 434937242914214637
+Sat Apr 11 09:42:29 index: 817, cur: 	0.30	, est: 		0.52	, Profit!, Nova | Green Apple (Minimal Wear), listingid: 436063118700205013
+Sat Apr 11 10:46:35 index: 916, cur: 	1.08	, est: 		1.60	, Profit!, FAMAS | Pulse (Factory New), listingid: 436063118700576653
+Sat Apr 11 12:55:34 index: 1005, cur: 	0.31	, est: 		0.50	, Profit!, StatTrak™ UMP-45 | Delusion (Field-Tested), listingid: 427055046556481091
+Sat Apr 11 20:20:53 index: 472, cur: 	0.04	, est: 		0.55	, Profit!, FAMAS | Sergeant (Field-Tested), listingid: 427055046559087346
+Sat Apr 11 21:41:36 index: 1105, cur: 	0.18	, est: 		0.52	, Profit!, AWP | Safari Mesh (Battle-Scarred), listingid: 434937242918656502
+Mon Apr 13 00:29:41 index: 868, cur: 	0.34	, est: 		0.52	, Profit!, Tec-9 | Ossified (Factory New), listingid: 427056125100283741

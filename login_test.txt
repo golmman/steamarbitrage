@@ -1,0 +1,159 @@
+
+
+Remote Address:2.20.89.158:443
+Request URL:https://steamcommunity.com/login/getrsakey/
+Request Method:POST
+Status Code:200 OK
+
+Response Headers
+view parsed
+HTTP/1.1 200 OK
+Server: Apache
+Content-Security-Policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' https://steamcommunity-a.akamaihd.net/ https://api.steampowered.com/ http://www.google-analytics.com https://ssl.google-analytics.com https://www.google.com https://www.gstatic.com https://apis.google.com; object-src 'none'; connect-src 'self' https://steamcommunity.com http://steamcommunity.com https://api.steampowered.com/; frame-src 'self' http://store.steampowered.com/ https://store.steampowered.com/ http://www.youtube.com https://www.youtube.com https://www.google.com;
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Cache-Control: no-cache
+Content-Length: 658
+Content-Type: application/json; charset=utf-8
+Date: Mon, 23 Mar 2015 15:26:54 GMT
+Connection: keep-alive
+
+Request Headers
+view parsed
+POST /login/getrsakey/ HTTP/1.1
+Host: steamcommunity.com
+Connection: keep-alive
+Content-Length: 46
+Origin: https://steamcommunity.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2200.0 Iron/41.0.2200.0 Safari/537.36
+Content-type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/javascript, text/html, application/xml, text/xml, */*
+X-Prototype-Version: 1.7
+X-Requested-With: XMLHttpRequest
+Referer: https://steamcommunity.com/login/home/?goto=market%2Flistings%2F730%2FP250+%7C+Boreal+Forest+%28Field-Tested%29
+Accept-Encoding: gzip, deflate
+Accept-Language: de-DE,de;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: steamMachineAuth76561198182459399=81C9C1054EDCD1505A6AE9242E19A27CD9C6EEC8; steamCC_88_75_115_116=DE; steamMachineAuth76561198121652995=B80AB107222FA152BB411F0BCF325453D9190FAF; sessionid=23c59195c0afc84f249020a4; timezoneOffset=3600,0; __utma=268881843.1992043353.1427117428.1427121523.1427124034.3; __utmb=268881843.0.10.1427124034; __utmc=268881843; __utmz=268881843.1427124034.3.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+
+Form Data
+view parsed
+username=svenschlotze&donotcache=1427124413596
+
+
+
+
+
+------------------------------------
+
+
+
+
+
+
+
+
+
+Remote Address:2.20.89.158:443
+Request URL:https://steamcommunity.com/login/dologin/
+Request Method:POST
+Status Code:200 OK
+
+Response Headers
+view parsed
+HTTP/1.1 200 OK
+Server: Apache
+Content-Security-Policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' https://steamcommunity-a.akamaihd.net/ https://api.steampowered.com/ http://www.google-analytics.com https://ssl.google-analytics.com https://www.google.com https://www.gstatic.com https://apis.google.com; object-src 'none'; connect-src 'self' https://steamcommunity.com http://steamcommunity.com https://api.steampowered.com/; frame-src 'self' http://store.steampowered.com/ https://store.steampowered.com/ http://www.youtube.com https://www.youtube.com https://www.google.com;
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Cache-Control: no-cache
+Content-Length: 360
+Content-Type: application/json; charset=utf-8
+Date: Mon, 23 Mar 2015 15:26:55 GMT
+Connection: keep-alive
+Set-Cookie: steamLogin=76561198121652995%7C%7C25948E9B6F32DA56243C7E47FF01B821E3EB7E1F; path=/; httponly
+Set-Cookie: steamLoginSecure=76561198121652995%7C%7C231ACD0D842DE8BECF35D21B980AA95ACFE0B68F; path=/; secure; httponly
+
+Request Headers
+view parsed
+POST /login/dologin/ HTTP/1.1
+Host: steamcommunity.com
+Connection: keep-alive
+Content-Length: 551
+Origin: https://steamcommunity.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2200.0 Iron/41.0.2200.0 Safari/537.36
+Content-type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/javascript, text/html, application/xml, text/xml, */*
+X-Prototype-Version: 1.7
+X-Requested-With: XMLHttpRequest
+Referer: https://steamcommunity.com/login/home/?goto=market%2Flistings%2F730%2FP250+%7C+Boreal+Forest+%28Field-Tested%29
+Accept-Encoding: gzip, deflate
+Accept-Language: de-DE,de;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: steamMachineAuth76561198182459399=81C9C1054EDCD1505A6AE9242E19A27CD9C6EEC8; steamCC_88_75_115_116=DE; steamMachineAuth76561198121652995=B80AB107222FA152BB411F0BCF325453D9190FAF; sessionid=23c59195c0afc84f249020a4; timezoneOffset=3600,0; __utma=268881843.1992043353.1427117428.1427121523.1427124034.3; __utmb=268881843.0.10.1427124034; __utmc=268881843; __utmz=268881843.1427124034.3.2.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+
+Form Data
+view parsed
+password=GSidEPG9kT4phO8uHaFqXMJUN2jUxKY9OE9wcigCY%2B7bM32ktQkv9CZVLC3LPj3cnWbZuHSnjGEMpm6tMHD2hkRmSN4J88K0TwL%2FQtHXqx1SHGdYMCK6ABl28I%2BBKKMzw4P1FfJ7XS8UvhmxPQkuL6z3HCycf%2FwqXYUof6UzAV4UJU0g3IqYrtxKAeLNu7c2NUBD9MbAJ%2Fr8YHB8hjK0ZoWe3mP2ARmibpIRh4MUn0xGLck8SHmWIaTi5M1qNevhYgHEJqknYG6zU%2F8FcuOSPbXadH1ko%2B8WRe54xUJcLj9o2NR0Kjea3DaAi8h1GYOlojYc61gE3kanEwWi0Xt41A%3D%3D&username=svenschlotze&twofactorcode=&emailauth=&loginfriendlyname=&captchagid=-1&captcha_text=&emailsteamid=&rsatimestamp=79261050000&remember_login=false&donotcache=1427124414485
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------
+
+
+
+
+
+
+Remote Address:2.20.89.158:443
+Request URL:https://store.steampowered.com/login/transfer
+Request Method:POST
+Status Code:200 OK
+
+Response Headers
+view parsed
+HTTP/1.1 200 OK
+Server: Apache
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Cache-Control: no-cache
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 20
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 23 Mar 2015 15:26:56 GMT
+Connection: keep-alive
+Set-Cookie: steamLogin=76561198121652995%7C%7C25948E9B6F32DA56243C7E47FF01B821E3EB7E1F; path=/; httponly
+Set-Cookie: steamLoginSecure=76561198121652995%7C%7C231ACD0D842DE8BECF35D21B980AA95ACFE0B68F; path=/; secure; httponly
+
+Request Headers
+view parsed
+POST /login/transfer HTTP/1.1
+Host: store.steampowered.com
+Connection: keep-alive
+Content-Length: 185
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Origin: https://steamcommunity.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2200.0 Iron/41.0.2200.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: https://steamcommunity.com/login/home/?goto=market%2Flistings%2F730%2FP250+%7C+Boreal+Forest+%28Field-Tested%29
+Accept-Encoding: gzip, deflate
+Accept-Language: de-DE,de;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: browserid=451823584437302198; timezoneOffset=3600,0; __utma=128748750.1409290299.1427052595.1427052595.1427052595.1; __utmz=128748750.1427052595.1.1.utmcsr=steamcommunity.com|utmccn=(referral)|utmcmd=referral|utmcct=/; steamMachineAuth76561198182459399=81C9C1054EDCD1505A6AE9242E19A27CD9C6EEC8; steamCC_88_75_115_116=DE; steamMachineAuth76561198121652995=B80AB107222FA152BB411F0BCF325453D9190FAF
+
+Form Data
+view parsed
+steamid=76561198121652995&token=25948E9B6F32DA56243C7E47FF01B821E3EB7E1F&auth=6472b6ecfea15ee2b286b840d99e8646&remember_login=false&token_secure=231ACD0D842DE8BECF35D21B980AA95ACFE0B68F
+
+
+
+
+
+
+
+
+
+23c59195c0afc84f249020a4

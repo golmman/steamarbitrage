@@ -1,0 +1,1 @@
+{"success":true,"lowest_price":"12,--&#8364; ","volume":"2,686","median_price":"10,71&#8364; "}
