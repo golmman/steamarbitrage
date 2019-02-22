@@ -26,27 +26,6 @@ import steamarbitrage.database.ItemNames;
 import steamarbitrage.database.steam.Price;
 
 
-
-class InventoryInfo {
-	public long assetId;
-	public long classId;
-	public long instanceId;
-	public long amount;
-	public int pos;
-	
-	public String name;
-
-	public InventoryInfo(long assetId, long classId, long instanceId, long amount, int pos, String name) {
-		this.assetId = assetId;
-		this.classId = classId;
-		this.instanceId = instanceId;
-		this.amount = amount;
-		this.pos = pos;
-		this.name = name;
-	}
-}
-
-
 public class RegExTest {
 	
 	private String listing = "";
